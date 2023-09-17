@@ -1,0 +1,1 @@
+print('Hello DevopsWorld, I am learning pushing a feature branch remotely, then raising pull request for merging feature branch remotely into master, then by using git pull, feature branch will be reflected locallly')
